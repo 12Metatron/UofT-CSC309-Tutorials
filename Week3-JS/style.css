@@ -6,7 +6,7 @@ body {
 .container-flex {
   display: flex;
   margin: 5% 0;
-  gap: 1rem 2%; 
+  gap: 1rem 2%;
   flex-flow: row wrap;
   align-items: stretch;
   justify-content: center;
@@ -20,7 +20,7 @@ body {
 .container-flex-order {
   display: flex;
   margin: 5% 0;
-  gap: 1rem 2%; 
+  gap: 1rem 2%;
   flex-flow: row wrap;
   align-items: stretch;
   justify-content: space-between;
